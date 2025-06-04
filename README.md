@@ -61,3 +61,9 @@
 
 _Ищу проекты и команды, где можно делать крутой frontend.  
 Если вы HR или тимлид — пишите, обсудим!_
+
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=any-person-front&show_icons=true&theme=tokyonight)
+
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=any-person-front&layout=compact&theme=tokyonight)
+
+![Трофеи GitHub](https://github-profile-trophy.vercel.app/?username=any-person-front&theme=tokyonight)
